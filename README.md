@@ -1,2 +1,2 @@
 # threadpool_cpp
-thread pool prototype
+Modern C++ thread pool - WIP
